@@ -160,10 +160,9 @@ Result: leaves no longer intersect with trunk
 
 4. Settings:
 
-```text
-Type: Generic Spring
-Enable: XYZ Angular
-```
+   - Type: Generic Spring
+   - Enable: XYZ Angular
+
 
 Adjust:
 
@@ -171,7 +170,7 @@ Adjust:
 - Stiffness
 - Damping
 
-![Constraint Setup](hinge_palm.png)
+![Constraint Setup](images/hinge_palm.png)
 
 ---
 
