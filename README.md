@@ -83,7 +83,7 @@ If there are multiple trees:
 
 ---
 
-## 4. Separate Leaf Parts
+## 4. Separate Leaf Parts & Combine
 
 1. Select `Combined_leaf`
 2. Go to **Edit Mode**
