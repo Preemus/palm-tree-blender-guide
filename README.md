@@ -1,5 +1,5 @@
 
-# Coconut Palm Rigging Blender Guide
+# Coconut Palm Rigging Using Blender
 
 Download the model from **Sketchfab**:  
 [Coconut Palm](https://sketchfab.com/3d-models/coconut-palm-26e787f2ff2e4c0fb004c3b0210805a3)
