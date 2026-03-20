@@ -173,10 +173,3 @@ Adjust:
 ![Constraint Setup](images/hinge_palm.png)
 
 ---
-
-## Notes
-- `Generic Spring` allows leaves to bend and return.
-- Increase stiffness → faster return.
-- Increase damping → smoother motion.
-
-
